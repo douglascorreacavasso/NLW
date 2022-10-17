@@ -4,7 +4,7 @@
 > Trilha Explorer eSports
 
 Projeto construido do evento Next Level Week
-da Rocketseat. Para mostrar 3 jogos, 3 canais e redes sociais.
+da Rocketseat. Para mostrar jogos, canais e redes sociais.
 
 [ Clique aqui para acessar](https://douglascorreacavasso.github.io/NLW/)
 
@@ -14,6 +14,7 @@ da Rocketseat. Para mostrar 3 jogos, 3 canais e redes sociais.
 - HTML
 - CSS
 - Git e Github
+- JavaScript
 
 ## Contato
 
